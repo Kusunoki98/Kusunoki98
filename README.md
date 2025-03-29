@@ -9,5 +9,5 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 Javascript, HTML, CSS...
 
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,css,discord,github,gmail,,linkedin,notion,py,visualstudio,vscode,windows,workers&perline=31)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,discord,github,gmail,excel,linkedin,notion,py,visualstudio,vscode,windows,workers&perline=31)](https://skillicons.dev)
 
