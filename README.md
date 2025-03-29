@@ -9,5 +9,5 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 Javascript, HTML, CSS...
 
 
-[![My Skills](https://skillicons.dev/icons?i=andoid,bash,discord,git,github,gmail,linkedin,notion,py,visualstudio,flask,ai,vscode,windows,workers&perline=31)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=android,bash,discord,git,github,gmail,linkedin,notion,py,visualstudio,flask,ai,vscode,windows,workers&perline=31)](https://skillicons.dev)
 
